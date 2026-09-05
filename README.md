@@ -1,4 +1,4 @@
-# Welcome to TULIP 2.0
+# Welcome to TULIP 2.1
 
 >"Everything will be alright as long as you have your -ing potato." - Mr. Tulip, to Mr. Pin, _The Truth_, by Terry Pratchett
 
@@ -12,7 +12,6 @@
  - Standard 3mm off-the-shelf pins, for those unable to cut their own
  - LazyCam support
  - Fysetc X light gantry compatibility (use standard XY joints)
- - Mamabot.io X light gantry support
  - Nema 17 AB Motor Mount Beta 
  - Nema 14 - 35mm Shaft Motor Mount Beta
  - Live Idler XY joints + Tension Idlers
