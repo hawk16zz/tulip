@@ -24,7 +24,7 @@ Go to the [Releases Page](https://github.com/Amekyras/tulip/releases) and downlo
 ![](/documentation/images/V0.2R1%20Tulip%20Mod.png)
 
 
-![](/documentation/images/V0.2R1%20Tulip%20Mod%20XY%20Joints.png)
+![](/documentation/images/Gantry.png)
 
 | Idlers | XY Joints |
 | :---: | :---: |
