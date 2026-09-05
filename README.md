@@ -22,14 +22,15 @@ Go to the [Releases Page](https://github.com/Amekyras/tulip/releases) and downlo
 
 ## Renders
 
-![](/documentation/images/V0.2R1%20Tulip%20Mod%20master%20v121.png)
+![](/documentation/images/V0.2R1%20Tulip%20Mod.png)
+
 
 ![](/documentation/images/V0.2R1%20Tulip%20Mod%20XY%20Joints.png)
 
 | Idlers | XY Joints |
 | :---: | :---: |
 | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner.png) | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20XY%20Joint.png) |
-| ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner%20cut.png) | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20Live%20XY%20Joints.png) |
+| ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner%20cut.png)  | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20Live%20XY%20Joints.png) |
 
 ![](/documentation/images/V0.2R1%20Tulip%20Mod%20Live%20Idler%20Exploded.png)
 
@@ -89,6 +90,8 @@ Parts required are;
 | M3x6 BHCS | 2 |  | 
 | M2x6 FHCS | 8 |  | 
 | M3x8 BHCS | 4 |  | 
+| M3x25 BHCS | 4 |  |
+| M3 Threaded Insert | 4 |  |
 | Pins M3x30mm | 4 | [KB-3D](https://kb-3d.com/store/hardware/143-3mm-bearing-steel-shafts-various-lengths-1642291225169.html) / [AliExpress](https://www.aliexpress.us/item/3256804639701799.html?spm=a2g0o.order_list.order_list_main.10.681a1802dQtwCu&gatewayAdapt=glo2usa) | 
 | M3x0.5mm Washer / Shim | 16 |  | 
 | F623 Bearing | 8 |  | 
@@ -102,6 +105,8 @@ Parts required are;
 | M3x6 BHCS | 2 |  | 
 | M2x6 FHCS | 8 |  | 
 | M3x8 BHCS | 4 |  | 
+| M3x25 BHCS | 4 |  |
+| M3 Threaded Insert | 4 |  |
 | XY Pins M3x30 | 4 | [KB-3D](https://kb-3d.com/store/hardware/143-3mm-bearing-steel-shafts-various-lengths-1642291225169.html), [AliExpress](https://www.aliexpress.us/item/3256804639701799.html?spm=a2g0o.order_list.order_list_main.10.681a1802dQtwCu&gatewayAdapt=glo2usa) | 
 | M3x0.5 Washer / Shim | 12 |  | 
 | F623 Bearing | 8 |  | 
