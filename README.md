@@ -28,8 +28,8 @@ Go to the [Releases Page](https://github.com/Amekyras/tulip/releases) and downlo
 
 | Idlers | XY Joints |
 | :---: | :---: |
-| ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner.png) | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20XY%20Joint.png) |
-| ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner%20cut.png)  | ![](/documentation/images/V0.2R1%20Tulip%20Mod%20Live%20XY%20Joints.png) |
+| ![](/documentation/images/V0.2R1%20Tulip%20Mod%20idler%20tensioner.png) | ![](/documentation/images/XY%20Joint.png) |
+| ![](/documentation/images/Tension%20Idler%20Cut.png)  | ![](/documentation/images/Live%20XY%20Joint.png) |
 
 ![](/documentation/images/V0.2R1%20Tulip%20Mod%20Live%20Idler%20Exploded.png)
 
